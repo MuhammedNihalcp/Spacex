@@ -1,0 +1,466 @@
+*{
+    margin: 0ch;
+    padding: 0px;
+}
+
+
+.Heder{
+
+    width: 1000px;
+    height: 5px;
+    margin-left: 0px;
+    
+   
+}
+
+
+img.imag1 {
+    width: 1337px;
+    height: 617px;
+}
+.Top-Heder{
+    width: 20px;
+    height: 5px;
+}
+#h2{
+    width: 20px;
+    display: block;
+    font-size: 43px;
+    margin-block-start: -598.17px;
+   
+  margin-left: 60px;
+    font-weight: bolder; 
+    font-style: italic;
+    color: white;
+    
+   
+}
+
+#h2:hover{
+    color: black;
+}
+#navigation{
+    margin-block-start: -598.17px;
+     margin-left:285px ; 
+     margin-top: 38px;
+    height: 30px;
+     width: 100%;
+}
+.nav-link{
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-block-start: -24px;
+   position: fixed;
+   
+}
+#fla{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+    
+#hea{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 91px;
+    font-weight: bold;
+ 
+}
+.chea{
+    margin-block-start: -28px;
+    
+}
+#hea:hover{
+    color: red;
+   
+}
+#dra{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 223px;
+    font-weight: bold;
+}
+.cdra{
+    margin-block-start: -28px;
+}
+#dra:hover{
+    color: red;
+}
+#sta{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 315px;
+    font-weight: bold;
+}
+#sta:hover{
+    color: red;
+}
+.csta{
+    margin-block-start: -28px;
+}
+#hum{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 419px;
+    font-weight: bold;
+}
+#hum:hover{
+    color: red;
+}
+.chum{
+    margin-block-start: -28px;
+}
+#aid{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 585px;
+    font-weight: bold;
+}
+#aid:hover{
+    color: red;
+}
+.caid{
+    margin-block-start: -28px;
+}
+#stl{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 697px;
+    font-weight: bold;
+}
+#stl:hover{
+    color: red;
+}
+.cstl{
+    margin-block-start: -28px;
+}
+#st{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 943px;
+    font-weight: bold;
+}
+#st:hover{
+    color: red;
+}
+.cst{
+    margin-block-start: -28px;
+}
+
+#reh1{
+    font-style: normal;
+    margin-left:64px ;
+    margin-block-start:244px ;
+    color: white;
+    font-weight: 10;
+    font-size: 24px;
+   
+}
+#kph1{
+    color: white;
+    margin-left:64px ;
+    margin-block-start:-7px ;
+    font-size:36px;
+}
+.bu{
+   background-color: transparent;
+   margin-left: 69px;
+   margin-block-start: 32px;
+   width: 136px;
+   height: 50px;
+   border-color: white;
+   color: black;
+}
+.bu:hover{
+    background-color: white;
+}
+.Heder2{
+    width: 100%;
+
+}
+.imag2{
+    width: 100%;
+    height: 603px;
+    margin-block-start: 611px;
+}
+#upc1{
+    font-style: normal;
+    margin-left:64px ;
+    margin-block-start:-414px;
+    color: white;
+    font-weight: 10;
+    font-size: 24px;
+}
+.page2h4{
+    width: 100%;
+    height: 20px;
+}
+#sta1{
+    font-style: normal;
+    margin-left: 64px;
+    margin-block-start: 18px;
+    color: white;
+    font-weight: 22;
+    font-size: 37px;
+}
+.bu2{
+    background-color: transparent;
+   margin-left: 69px;
+   margin-block-start: 32px;
+   width: 136px;
+   height: 50px;
+   border-color: white;
+   color: black;
+}
+.bu2:hover{
+    background-color: white;
+}
+#navigation2{
+    margin-block-start: -598.17px;
+     margin-left:285px ; 
+     margin-top: -272px;
+    height: 30px;
+     width: 100%;
+}
+.nav-link2{
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-block-start: -24px;
+   
+   
+}
+#fla2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+.cfla2{
+    margin-top: 127px;
+}
+    
+#hea2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 91px;
+    font-weight: bold;
+ 
+}
+.chea2{
+    margin-block-start: -23px;
+    
+}
+#hea:hover2{
+    color: red;
+   
+}
+#dra2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 223px;
+    font-weight: bold;
+}
+.cdra2{
+    margin-block-start: -28px;
+}
+#dra:hover2{
+    color: red;
+}
+#sta2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 315px;
+    font-weight: bold;
+}
+#sta:hover2{
+    color: red;
+}
+.csta2{
+    margin-block-start: -28px;
+}
+#hum2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 419px;
+    font-weight: bold;
+}
+#hum:hover2{
+    color: red;
+}
+.chum2{
+    margin-block-start: -28px;
+}
+#aid2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 585px;
+    font-weight: bold;
+}
+#aid:hover2{
+    color: red;
+}
+.caid2{
+    margin-block-start: -28px;
+}
+#stl2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 697px;
+    font-weight: bold;
+}
+#stl:hover2{
+    color: red;
+}
+.cstl2{
+    margin-block-start: -28px;
+}
+#st2{
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    position: relative;
+    margin-left: 943px;
+    font-weight: bold;
+}
+#st2:hover2{
+    color: red;
+}
+.cst2{
+    margin-block-start: -30px;
+}
+#h22{
+    width: 20px;
+    display: block;
+    font-size: 43px;
+    margin-block-start: -37.17px;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  margin-left: 60px;
+    font-weight: bolder; 
+    font-style: italic;
+    color: white;
+    
+}
+#h22:hover{
+    color: black;
+}
+.Heder3{
+
+    width: 1000px;
+    height: 5px;
+    margin-left: 0px;
+    
+   
+}
+.imag3{
+    width: 100%;
+    margin-top: 382px;
+    height: 602px;
+}
+.page3{
+    width: 100%;
+    height: 100px;
+}
+#star1{
+    font-style: normal;
+    margin-left: 64px;
+    margin-block-start: -241px;
+    color: white;
+    font-weight: 22;
+    font-size: 37px;
+}
+.page3 button{
+    BACKGROUND-COLOR: TRANSPARENT;
+    MARGIN-LEFT: 65PX;
+    WIDTH: 129PX;
+    HEIGHT: 51PX;
+    MARGIN-TOP: 19PX;
+    border-color: white;
+                              
+}
+.bu3:hover{
+    background-color: white;
+}
+.navigation3{
+    width: 100%;
+    height: 189px;
+    background-color: black;
+}
+.mod{
+    top: 1834px;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    margin-left: 10px;
+    font-size: 10px;
+    
+}
+.link-ul{
+    display: flex;
+    list-style-type: none;
+}
+.link-ul li{
+    margin-left: 125px;
+}
+.mod1{
+    top: 1834px;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    margin-left: 10px;
+    font-size: 10px;
+}
